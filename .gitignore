@@ -1,0 +1,7 @@
+# Arquivos e pastas do Eclipse
+.settings/
+.classpath
+.project
+
+# Outras coisas pra ignorar
+bin/
