@@ -1,7 +1,13 @@
-# Arquivos e pastas do Eclipse
-.settings/
+# Ignora arquivos e pastas do Eclipse
 .classpath
 .project
-
-# Outras coisas pra ignorar
+.settings/
 bin/
+target/
+
+# Ignora arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Outros
+*.log
